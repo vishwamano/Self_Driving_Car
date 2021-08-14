@@ -22,7 +22,8 @@ Terminal.
 4.conda install -c conda-forge/label/cf201901 kivy
 
 # Finally 
-let's enter the final command, right now. It's this👇
+let's enter the final command, right now. It's this
+
 python map.py
 
 
