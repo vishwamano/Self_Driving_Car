@@ -13,6 +13,7 @@ Terminal.
 
 # Inside the terminal, enter the following command:
 1.conda create -n selfdrivingcar python=3.6
+
 2.conda activate selfdrivingcar
 
 # Installing PyTorch
