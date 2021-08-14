@@ -24,6 +24,6 @@ Terminal.
 # Finally 
 let's enter the final command, right now. It's this
 
-python map.py
+5.python map.py
 
-
+         
